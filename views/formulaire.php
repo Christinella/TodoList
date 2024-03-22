@@ -1,5 +1,5 @@
 <h1>Créer une nouvelle tache !</h1>
-<form method="POST" action="" class= "row g-3">
+<form method="POST" action="../Models/DBConnexion/DBConnexion.php" class= "row g-3">
   <div class="col-md-6">
     <label for="inputEmail4" class="form-label">Titre</label>
     <input type="Text" class="form-control" id="inputEmail4">
