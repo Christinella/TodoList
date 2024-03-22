@@ -1,7 +1,7 @@
 <?php
 
-/*if (!empty($_POST))
-   /* if(
+if (!empty($_POST))
+    if(
         isset($_POST['Name'], $_POST['Lastname'])
         && !empty($_POST['Name']) &&  !empty($_POST['Lastname'])
     ){
@@ -10,5 +10,5 @@
         
     }else{
         die('L`inscription est incomplet');
-    }*/
+    }
 
