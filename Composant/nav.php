@@ -1,5 +1,13 @@
-<nav class="navbar" style="background-color: #49E364;">
-        <div class="container-md">
-            <a class="navbar-brand" href="#">TODOLIST</a>
-        </div>
-    </nav>
+<header>
+  <nav class="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
+    <div class="container-fluid">
+      <a class="navbar-brand">TODOLIST</a>
+      <a href="../connexion.php"><button type="button" class="btn btn-outline-light">connexion</button></a>
+     </form>
+    </div>
+    
+  </nav>
+</header>
+
+
+

@@ -1,9 +1,9 @@
 <div class="list-group">
   <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
-    The current link item
+   Les tâches à faire
   </a>
-  <a href="#" class="list-group-item list-group-item-action">A second link item</a>
-  <a href="#" class="list-group-item list-group-item-action">A third link item</a>
-  <a href="#" class="list-group-item list-group-item-action">A fourth link item</a>
-  <a class="list-group-item list-group-item-action disabled" aria-disabled="true">A disabled link item</a>
+  <a href="#" class="list-group-item list-group-item-action">Tache 1</a>
+  <a href="#" class="list-group-item list-group-item-action">Tache 2</a>
+  <a href="#" class="list-group-item list-group-item-action">Tache 3</a>
+  <a class="list-group-item list-group-item-action disabled" aria-disabled="true">Tache 4</a>
 </div>

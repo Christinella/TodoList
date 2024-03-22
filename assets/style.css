@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(to right, #0ee865 0%, #46c3ce 44%, #423fc9 66%) !important;
+    background-repeat: no-repeat;
+
+
+}
+
+form {
+    padding: 50px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px !important;
+}
+
+.Bandeau {
+    height: 30px;
+    background-color: black;
+    position: relative;
+    top: 30px;
+}
+
+p {
+    color: white;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.col-12 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px !important;
+
+}
+#Catégories {
+    width: 49%;
+    margin-top: 40px;
+}
+.list-group{
+    width: 60%;
+    padding: 70px;
+    margin-left: 22%;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
